@@ -6,7 +6,7 @@ import VueResource from 'vue-resource'
 import router from './router'
 Vue.use(VueResource)
 // Vue.config.productionTip = false
-Vue.http.options.root = 'http://192.168.25.142:9999'
+// Vue.http.options.root = 'http://192.168.25.142:9999'
 
 /* eslint-disable no-new */
 new Vue({
